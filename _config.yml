@@ -1,16 +1,16 @@
 # Site settings
-title: Microdust
+title: 呓语
 header-img: "img/autumn2.jpg"
 tagline: "吉光片羽"  
-description: "在遙遠的地方 一切虔誠終必相遇"  
+description: "或许只是嘤嘤呓语"  
 baseurl: ""
-url: "http://azeril.me"  
+url: "http://xiaomiSun.github.io"  
 #url: "http://localhost:4000"
 
 # About/contact
 owner: 
-  name: "Azeril"
-  email: azeril@live.cn
+  name: "孙小米"
+  email: sunhemin@outlook.com
   bio: "明朝即長路 惜取此時心"
 
 # Data
@@ -53,7 +53,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Azeril"
+      author: "孙小米"
       header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
